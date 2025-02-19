@@ -4,16 +4,27 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
+# Profile Page Project – Scrimba
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This is a simple profile page project built as part of Scrimba's Frontend Development course.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Live Demo:
+[View Live Project](https://YOUR_USERNAME.github.io/scrimba-profile-project/)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠️ Tech Stack:
+- HTML
+- CSS
 
-Happy Coding!
+## 📱 Features:
+- Responsive design using media queries
+- Flexbox layout for alignment
+- Mobile-first approach
+
+## 🎯 What I Learned:
+- Structuring HTML content
+- Using Flexbox for layout
+- Applying basic responsive design principles
+
+## 🧑‍💻 Author:
+**Mohammed Yaseen M**  
+[LinkedIn Profile](https://www.linkedin.com/in/mohammed-yaseen-m-420o/)
